@@ -20,7 +20,11 @@ My goal is to grow into a **backend developer** and, in the future, become a **f
   <a href="https://www.instagram.com/paulo_luann/">
     <img src="https://img.shields.io/badge/Instagram-@paulo_luann-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
- 
+  <a href = "https://www.linkedin.com/in/paulo-luan-929506208/">
+  <img src="https://img.shields.io/badge/LinkedIn-Paulo%20Luan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  
+  
+
 </p>
 
 ---
@@ -43,3 +47,5 @@ My goal is to grow into a **backend developer** and, in the future, become a **f
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=pauloluann&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloluann&layout=compact&theme=tokyonight" />
 </p>
+
+---
