@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋, I'm Paulo Luan
 
-<!--
-**pauloluann/pauloluann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Student of Systems Analysis and Development | Focus on Backend (Java, SQL, Spring)**  
+🇧🇷 Brazil
 
-Here are some ideas to get you started:
+I'm currently focused on building a strong foundation in **Java** and programming fundamentals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m working on improving my logic, problem-solving skills, and understanding of clean code.
+
+My goal is to grow into a **backend developer** and, in the future, become a **full stack developer**.
+
+---
+
+## 🌐 Where to find me
+
+<p align="left">
+  <a href="https://github.com/pauloluann">
+    <img src="https://img.shields.io/badge/GitHub-pauloluann-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.instagram.com/paulo_luann/">
+    <img src="https://img.shields.io/badge/Instagram-@paulo_luann-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+ 
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+**LOADING**..
+
+### Backend
+
+**LOADING**..
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pauloluann&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloluann&layout=compact&theme=tokyonight" />
+</p>
