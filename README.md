@@ -40,12 +40,3 @@ My goal is to grow into a **backend developer** and, in the future, become a **f
 **LOADING**..
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pauloluann&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloluann&layout=compact&theme=tokyonight" />
-</p>
-
----
