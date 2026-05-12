@@ -1,42 +1,164 @@
-# Hi 👋, I'm Paulo Luan
+<div align="center">
 
-🚀 **Student of Systems Analysis and Development | Focus on Backend (Java, SQL, Spring)**  
-🇧🇷 Brazil
+# Olá 👋, eu sou Paulo Luan
 
-I'm currently focused on building a strong foundation in **Java** and programming fundamentals.
+### Desenvolvedor Full Stack em formação  
+### Atualmente focado em Backend com Java ☕
 
-I’m working on improving my logic, problem-solving skills, and understanding of clean code.
+<br>
 
-My goal is to grow into a **backend developer** and, in the future, become a **full stack developer**.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3BA4F2&center=true&vCenter=true&width=700&lines=Backend+Developer+Java;Aprendendo+Spring+Boot;Construindo+projetos+práticos;Evoluindo+todos+os+dias" />
 
----
-
-## 🌐 Where to find me
-
-<p align="left">
-  <a href="https://github.com/pauloluann">
-    <img src="https://img.shields.io/badge/GitHub-pauloluann-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.instagram.com/paulo_luann/">
-    <img src="https://img.shields.io/badge/Instagram-@paulo_luann-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href = "https://www.linkedin.com/in/paulo-luan-929506208/">
-  <img src="https://img.shields.io/badge/LinkedIn-Paulo%20Luan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-  
-  
-
-</p>
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 👨‍💻 Sobre mim
 
-### Frontend
+```txt
+💻 Desenvolvedor em evolução
+📚 Estudando Java, SQL e Spring Boot
+🧠 Focado em lógica, backend e boas práticas
+🚀 Construindo projetos para ganhar experiência real
+🎯 Objetivo: me tornar um desenvolvedor Full Stack
+```
 
-**LOADING**..
+<br>
 
-### Backend
+# 🌎 Onde me encontrar
 
-**LOADING**..
+<div align="left">
+
+[![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSER)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEUUSER)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEUUSER)
+
+</div>
 
 ---
+
+# 🛠️ Stack atual
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+## ☕ Backend
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql" />
+
+<br><br>
+
+| Tecnologia | Nível |
+|---|---|
+| Java | Evoluindo |
+| Spring Boot | Aprendendo |
+| SQL | Intermediário |
+| PostgreSQL | Aprendendo |
+
+</td>
+
+<td valign="top" width="50%">
+
+## 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+
+<br><br>
+
+| Tecnologia | Status |
+|---|---|
+| HTML | Base |
+| CSS | Base |
+| JavaScript | Iniciando |
+
+</td>
+</tr>
+</table>
+
+---
+
+# ⚙️ Ferramentas
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode" />
+
+</div>
+
+---
+
+# 📚 Atualmente estudando
+
+<table>
+<tr>
+<td>
+
+✅ Programação Orientada a Objetos  
+✅ Estrutura de projetos Java  
+✅ Git e GitHub  
+✅ SQL e modelagem de dados  
+✅ Spring Boot  
+⬜ APIs REST  
+⬜ JPA/Hibernate  
+⬜ React  
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📌 Projetos
+
+<table>
+<tr>
+<td width="50%">
+
+## 🍔 Sistema de Lanchonete
+
+Projeto desenvolvido em Java com foco em:
+
+- orientação a objetos
+- listas
+- subtotal
+- organização de pedidos
+- lógica de sistema
+
+</td>
+
+<td width="50%">
+
+## ⚔️ Sistema RPG
+
+Projeto focado em:
+
+- encapsulamento
+- composição
+- combate entre personagens
+- modelagem de classes
+- regras de batalha
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 Estatísticas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=tokyonight&border_radius=10"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&theme=tokyonight&border_radius=10"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Sempre aprendendo e construindo novos projetos
+
+</div>
