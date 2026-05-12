@@ -147,13 +147,9 @@ Projeto focado em:
 
 # 📊 Estatísticas
 
-<div align="center">
-
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pauloluann&show_icons=true&count_private=true&hide_border=true&title_color=3BA4F2&icon_color=3BA4F2&text_color=c9d1d9&bg_color=0d1117" />
-
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloluann&layout=compact&hide_border=true&title_color=3BA4F2&text_color=c9d1d9&bg_color=0d1117" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pauloluann&theme=tokyonight&hide_border=true"/>
+</p>
 
 ### 🚀 Sempre aprendendo e construindo novos projetos
 
