@@ -149,15 +149,11 @@ Projeto focado em:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=tokyonight&border_radius=10"/>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pauloluann&show_icons=true&count_private=true&hide_border=true&title_color=3BA4F2&icon_color=3BA4F2&text_color=c9d1d9&bg_color=0d1117" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&theme=tokyonight&border_radius=10"/>
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloluann&layout=compact&hide_border=true&title_color=3BA4F2&text_color=c9d1d9&bg_color=0d1117" />
 
 </div>
-
----
-
-<div align="center">
 
 ### 🚀 Sempre aprendendo e construindo novos projetos
 
