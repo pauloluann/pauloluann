@@ -27,12 +27,16 @@
 
 # 🌎 Onde me encontrar
 
-<div align="left">
-
-[![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSER)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEUUSER)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEUUSER)
-
+<p align="left">
+  <a href="https://github.com/pauloluann">
+    <img src="https://img.shields.io/badge/GitHub-pauloluann-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.instagram.com/paulo_luann/">
+    <img src="https://img.shields.io/badge/Instagram-@paulo_luann-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href = "https://www.linkedin.com/in/paulo-luan-929506208/">
+  <img src="https://img.shields.io/badge/LinkedIn-Paulo%20Luan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  
 </div>
 
 ---
